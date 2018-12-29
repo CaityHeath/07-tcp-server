@@ -12,6 +12,7 @@
   "dependencies": {
     "eslint": "^5.11.1",
     "jest": "^23.6.0",
+    "jsdoc": "git://github.com/jsdoc3/jsdoc.git",
     "nc": "^1.0.2",
     "uuid": "^3.3.2"
   }
