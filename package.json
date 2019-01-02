@@ -14,6 +14,7 @@
     "jest": "^23.6.0",
     "jsdoc": "git://github.com/jsdoc3/jsdoc.git",
     "nc": "^1.0.2",
+    "require-directory": "^2.1.1",
     "uuid": "^3.3.2"
   }
 }
